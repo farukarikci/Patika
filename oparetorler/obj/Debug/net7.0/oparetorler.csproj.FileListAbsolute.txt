@@ -1,0 +1,15 @@
+C:\Pratikler\oparetorler\bin\Debug\net7.0\oparetorler.exe
+C:\Pratikler\oparetorler\bin\Debug\net7.0\oparetorler.deps.json
+C:\Pratikler\oparetorler\bin\Debug\net7.0\oparetorler.runtimeconfig.json
+C:\Pratikler\oparetorler\bin\Debug\net7.0\oparetorler.dll
+C:\Pratikler\oparetorler\bin\Debug\net7.0\oparetorler.pdb
+C:\Pratikler\oparetorler\obj\Debug\net7.0\oparetorler.csproj.AssemblyReference.cache
+C:\Pratikler\oparetorler\obj\Debug\net7.0\oparetorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pratikler\oparetorler\obj\Debug\net7.0\oparetorler.AssemblyInfoInputs.cache
+C:\Pratikler\oparetorler\obj\Debug\net7.0\oparetorler.AssemblyInfo.cs
+C:\Pratikler\oparetorler\obj\Debug\net7.0\oparetorler.csproj.CoreCompileInputs.cache
+C:\Pratikler\oparetorler\obj\Debug\net7.0\oparetorler.dll
+C:\Pratikler\oparetorler\obj\Debug\net7.0\refint\oparetorler.dll
+C:\Pratikler\oparetorler\obj\Debug\net7.0\oparetorler.pdb
+C:\Pratikler\oparetorler\obj\Debug\net7.0\oparetorler.genruntimeconfig.cache
+C:\Pratikler\oparetorler\obj\Debug\net7.0\ref\oparetorler.dll
