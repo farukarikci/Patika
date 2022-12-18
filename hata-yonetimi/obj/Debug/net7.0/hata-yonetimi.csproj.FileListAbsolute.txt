@@ -1,0 +1,15 @@
+C:\Pratikler\hata-yonetimi\bin\Debug\net7.0\hata-yonetimi.exe
+C:\Pratikler\hata-yonetimi\bin\Debug\net7.0\hata-yonetimi.deps.json
+C:\Pratikler\hata-yonetimi\bin\Debug\net7.0\hata-yonetimi.runtimeconfig.json
+C:\Pratikler\hata-yonetimi\bin\Debug\net7.0\hata-yonetimi.dll
+C:\Pratikler\hata-yonetimi\bin\Debug\net7.0\hata-yonetimi.pdb
+C:\Pratikler\hata-yonetimi\obj\Debug\net7.0\hata-yonetimi.csproj.AssemblyReference.cache
+C:\Pratikler\hata-yonetimi\obj\Debug\net7.0\hata-yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pratikler\hata-yonetimi\obj\Debug\net7.0\hata-yonetimi.AssemblyInfoInputs.cache
+C:\Pratikler\hata-yonetimi\obj\Debug\net7.0\hata-yonetimi.AssemblyInfo.cs
+C:\Pratikler\hata-yonetimi\obj\Debug\net7.0\hata-yonetimi.csproj.CoreCompileInputs.cache
+C:\Pratikler\hata-yonetimi\obj\Debug\net7.0\hata-yonetimi.dll
+C:\Pratikler\hata-yonetimi\obj\Debug\net7.0\refint\hata-yonetimi.dll
+C:\Pratikler\hata-yonetimi\obj\Debug\net7.0\hata-yonetimi.pdb
+C:\Pratikler\hata-yonetimi\obj\Debug\net7.0\hata-yonetimi.genruntimeconfig.cache
+C:\Pratikler\hata-yonetimi\obj\Debug\net7.0\ref\hata-yonetimi.dll
