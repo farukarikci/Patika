@@ -1,0 +1,15 @@
+C:\Users\Ömer Faruk Arıkçı\Desktop\Patika\array_sinifi_methodlar\bin\Debug\net7.0\array_sinifi_methodlar.exe
+C:\Users\Ömer Faruk Arıkçı\Desktop\Patika\array_sinifi_methodlar\bin\Debug\net7.0\array_sinifi_methodlar.deps.json
+C:\Users\Ömer Faruk Arıkçı\Desktop\Patika\array_sinifi_methodlar\bin\Debug\net7.0\array_sinifi_methodlar.runtimeconfig.json
+C:\Users\Ömer Faruk Arıkçı\Desktop\Patika\array_sinifi_methodlar\bin\Debug\net7.0\array_sinifi_methodlar.dll
+C:\Users\Ömer Faruk Arıkçı\Desktop\Patika\array_sinifi_methodlar\bin\Debug\net7.0\array_sinifi_methodlar.pdb
+C:\Users\Ömer Faruk Arıkçı\Desktop\Patika\array_sinifi_methodlar\obj\Debug\net7.0\array_sinifi_methodlar.csproj.AssemblyReference.cache
+C:\Users\Ömer Faruk Arıkçı\Desktop\Patika\array_sinifi_methodlar\obj\Debug\net7.0\array_sinifi_methodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer Faruk Arıkçı\Desktop\Patika\array_sinifi_methodlar\obj\Debug\net7.0\array_sinifi_methodlar.AssemblyInfoInputs.cache
+C:\Users\Ömer Faruk Arıkçı\Desktop\Patika\array_sinifi_methodlar\obj\Debug\net7.0\array_sinifi_methodlar.AssemblyInfo.cs
+C:\Users\Ömer Faruk Arıkçı\Desktop\Patika\array_sinifi_methodlar\obj\Debug\net7.0\array_sinifi_methodlar.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Faruk Arıkçı\Desktop\Patika\array_sinifi_methodlar\obj\Debug\net7.0\array_sinifi_methodlar.dll
+C:\Users\Ömer Faruk Arıkçı\Desktop\Patika\array_sinifi_methodlar\obj\Debug\net7.0\refint\array_sinifi_methodlar.dll
+C:\Users\Ömer Faruk Arıkçı\Desktop\Patika\array_sinifi_methodlar\obj\Debug\net7.0\array_sinifi_methodlar.pdb
+C:\Users\Ömer Faruk Arıkçı\Desktop\Patika\array_sinifi_methodlar\obj\Debug\net7.0\array_sinifi_methodlar.genruntimeconfig.cache
+C:\Users\Ömer Faruk Arıkçı\Desktop\Patika\array_sinifi_methodlar\obj\Debug\net7.0\ref\array_sinifi_methodlar.dll
